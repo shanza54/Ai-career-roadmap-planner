@@ -28,5 +28,5 @@ To run this application locally on your machine, follow these steps:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/shanza54/Ai-career-roadmap-planner.git
-cd ai-career-roadmap-planner
+cd Ai-career-roadmap-planner
 ```
